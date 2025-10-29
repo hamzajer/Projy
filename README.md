@@ -23,7 +23,7 @@ projy (short for *Project-ify*) is a simple and fast command-line tool, written 
 ### **From Source**
 
 1. **Clone the repository:**  
-   git clone https://github.com/hamzajer/Projy.git
+   git clone https://github.com/hamzajer/Projy.git \\
    cd projy
 
 3. **Build the binary:**  
